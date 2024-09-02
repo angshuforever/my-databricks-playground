@@ -1,7 +1,7 @@
 # Dear Sanjay - thank you. You have taught me this :)
 ### Page dedicated to our very own Mr Local JW. 
 
-## PySpark vs SparkSQL Usage in Databricks Cheat Sheet
+## Cheat Sheet: PySpark vs SparkSQL Usage in Databricks 
 
 ## PySpark
 
