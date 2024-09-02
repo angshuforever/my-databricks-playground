@@ -1,5 +1,5 @@
-# Dear Sanjay - thank you. This is what I have learnt from you today
-### Page dedicated to our very own Mr Local J. 
+# Dear Sanjay - thank you. You have taught me this :)
+### Page dedicated to our very own Mr Local JW. 
 
 ## PySpark vs SparkSQL Usage in Databricks Cheat Sheet
 
