@@ -1,7 +1,7 @@
-# <span style="color:blue"> Dear Sanjay - thank you.</span>
+# Dear Sanjay - thank you. This is what I have learnt from you today
 ### Page dedicated to our very own Mr Local J. 
 
-# PySpark vs SparkSQL Usage in Databricks Cheat Sheet
+## PySpark vs SparkSQL Usage in Databricks Cheat Sheet
 
 ## PySpark
 
