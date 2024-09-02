@@ -1,5 +1,5 @@
 # Page dedicated to our very own Mr Local J. 
-<span style="color:blue"> # Dear Sanjay - thank you.</span>
+# <span style="color:blue"> Dear Sanjay - thank you.</span>
 
 # PySpark vs SparkSQL Usage in Databricks Cheat Sheet
 
