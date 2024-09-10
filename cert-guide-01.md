@@ -60,7 +60,9 @@
 
 ## Daily Routine
 1. Study core concepts (2-3 hours)
-2. Hands-on practice in Databricks Community Edition (1-2 hours) 3. Review and summarize learnings (30 minutes) 4. Work on ongoing project or solve practice problems (1 hour)
+2. Hands-on practice in Databricks Community Edition (1-2 hours)
+3. 3. Review and summarize learnings (30 minutes)
+   4. 4. Work on ongoing project or solve practice problems (1 hour)
 
 ## Resources
 - Databricks documentation and learning paths
